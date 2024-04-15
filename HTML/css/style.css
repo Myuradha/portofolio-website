@@ -333,11 +333,11 @@ input:checked+label .description{
 }
 
 .card[for="c1"] {
-    background-image: url(../Assets/art/base_bg.png);
+    background-image: url(../Assets/art/mesh-mat.png);
 }
 
 .card[for="c2"] {
-    background-image: url(../Assets/art/base_bg.png);
+    background-image: url(../Assets/art/kitchenset2.png);
 }
 
 .card[for="c3"] {
